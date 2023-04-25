@@ -7,6 +7,8 @@ using namespace std;
 
 // Subiectul 1
 
+// Problema 3
+
 void tipar(int s[], int k) {
 	for (int i = 0; i < k + 1; i++) {
 		cout << s[i] << " ";

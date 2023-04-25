@@ -1,3 +1,5 @@
 ﻿  variante-bac-carte-info.cpp
-D:\mycode\variante\variante-bac-carte-info\variante-bac-carte-info\varianta-3.h(156,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\mycode\variante\variante-bac-carte-info\variante-bac-carte-info\varianta-5.h(60,9): warning C4101: 'j': unreferenced local variable
+D:\mycode\variante\variante-bac-carte-info\variante-bac-carte-info\varianta-5.h(60,6): warning C4101: 'i': unreferenced local variable
+D:\mycode\variante\variante-bac-carte-info\variante-bac-carte-info\varianta-5.h(96,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   variante-bac-carte-info.vcxproj -> D:\mycode\variante\variante-bac-carte-info\x64\Debug\variante-bac-carte-info.exe
