@@ -26,5 +26,25 @@
     <ClInclude Include="varianta-25.h">
       <Filter>Variante</Filter>
     </ClInclude>
+    <ClInclude Include="varianta-1.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-2.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-3.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-4.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-5.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
