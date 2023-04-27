@@ -41,6 +41,15 @@
     <ClInclude Include="varianta-5.h">
       <Filter>Variante</Filter>
     </ClInclude>
+    <ClInclude Include="varianta-6.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-7.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-8.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
