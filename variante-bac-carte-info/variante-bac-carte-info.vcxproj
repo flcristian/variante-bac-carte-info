@@ -137,6 +137,9 @@
     <ClInclude Include="varianta-3.h" />
     <ClInclude Include="varianta-4.h" />
     <ClInclude Include="varianta-5.h" />
+    <ClInclude Include="varianta-6.h" />
+    <ClInclude Include="varianta-7.h" />
+    <ClInclude Include="varianta-8.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
