@@ -131,6 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="varianta-1.h" />
+    <ClInclude Include="varianta-10.h" />
+    <ClInclude Include="varianta-11.h" />
+    <ClInclude Include="varianta-12.h" />
     <ClInclude Include="varianta-2.h" />
     <ClInclude Include="varianta-24.h" />
     <ClInclude Include="varianta-25.h" />
@@ -140,6 +143,7 @@
     <ClInclude Include="varianta-6.h" />
     <ClInclude Include="varianta-7.h" />
     <ClInclude Include="varianta-8.h" />
+    <ClInclude Include="varianta-9.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

@@ -29,19 +29,37 @@ void rezolvareSub2Problema3() {
 
 // Subiectul 3
 
-// Problema 1
+// Problema 2
+// Subprogramul patrat are un parametru n, prin care
+// primeste un numar natural.
+// Subprogramul returneaza cel mai mare patrat perfect care este
+// divizor al lui n.
 
-void rezolvareSub3Problema1() {
-
+int patrat(int n) {
+	for (int i = sqrt(n); i > 0; i--) {
+		int k = pow(i, 2);
+		if (n % k == 0) {
+			return k;
+		}
+	}
+	return 0;
 }
 
-// Problema 2
-
 void rezolvareSub3Problema2() {
+	int n;
+	cout << "Introduceti n : ";
+	cin >> n;
 
+	cout << patrat(n);
 }
 
 // Problema 3
+// Se citeste din fisier un sir S.
+// Sa se afiseze numarul de elemente din sir
+// care au un numar maxim de "0" la finalul factorialului
+// lor si care este acest numar.
+
+// ? ? ? ?
 
 void rezolvareSub3Problema3() {
 
