@@ -1,6 +1,6 @@
-#include "varianta-17.h"
+#include "varianta-22.h"
 
 int main()
 {
-	rezolvareSub2Problema3();
-}
+	rezolvareSub3Problema2();
+} 
