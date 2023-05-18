@@ -62,6 +62,36 @@
     <ClInclude Include="varianta-12.h">
       <Filter>Variante</Filter>
     </ClInclude>
+    <ClInclude Include="varianta-14.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-15.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-16.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-17.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-18.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-13.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-19.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-20.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-22.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-21.h">
+      <Filter>Variante</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

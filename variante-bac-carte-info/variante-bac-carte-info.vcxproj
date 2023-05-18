@@ -130,11 +130,21 @@
     <ClCompile Include="variante-bac-carte-info.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="varianta-13.h" />
     <ClInclude Include="varianta-1.h" />
     <ClInclude Include="varianta-10.h" />
     <ClInclude Include="varianta-11.h" />
     <ClInclude Include="varianta-12.h" />
+    <ClInclude Include="varianta-14.h" />
+    <ClInclude Include="varianta-15.h" />
+    <ClInclude Include="varianta-16.h" />
+    <ClInclude Include="varianta-17.h" />
+    <ClInclude Include="varianta-18.h" />
+    <ClInclude Include="varianta-19.h" />
     <ClInclude Include="varianta-2.h" />
+    <ClInclude Include="varianta-20.h" />
+    <ClInclude Include="varianta-21.h" />
+    <ClInclude Include="varianta-22.h" />
     <ClInclude Include="varianta-24.h" />
     <ClInclude Include="varianta-25.h" />
     <ClInclude Include="varianta-3.h" />
